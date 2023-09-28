@@ -1,47 +1,23 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render App component 1`] = `
+exports[`should render Header component 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div
-        class="container-fluid"
+      <h1
+        class="text-center text-primary border border-primary shadow rounded mt-2 p-1"
       >
-        <div
-          class="row vh-100 bg-primary-subtle"
-        >
-          <div
-            class="col-md-12"
-          >
-            <h1
-              class="text-center text-primary border border-primary shadow rounded mt-2 p-1"
-            >
-              Find all pairs or sums equal to 10
-            </h1>
-          </div>
-        </div>
-      </div>
+        Find all pairs or sums equal to 10
+      </h1>
     </div>
   </body>,
   "container": <div>
-    <div
-      class="container-fluid"
+    <h1
+      class="text-center text-primary border border-primary shadow rounded mt-2 p-1"
     >
-      <div
-        class="row vh-100 bg-primary-subtle"
-      >
-        <div
-          class="col-md-12"
-        >
-          <h1
-            class="text-center text-primary border border-primary shadow rounded mt-2 p-1"
-          >
-            Find all pairs or sums equal to 10
-          </h1>
-        </div>
-      </div>
-    </div>
+      Find all pairs or sums equal to 10
+    </h1>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],
