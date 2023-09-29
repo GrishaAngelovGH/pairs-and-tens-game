@@ -1,5 +1,5 @@
 const Header = () => (
-  <h1 className="text-center text-primary border border-primary shadow rounded mt-2 p-1">
+  <h1 className="text-center text-primary border border-primary shadow rounded m-2 p-2 fixed-top">
     Find all pairs or sums equal to 10
   </h1>
 )

@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <h1
-        class="text-center text-primary border border-primary shadow rounded mt-2 p-1"
+        class="text-center text-primary border border-primary shadow rounded m-2 p-2 fixed-top"
       >
         Find all pairs or sums equal to 10
       </h1>
@@ -14,7 +14,7 @@ Object {
   </body>,
   "container": <div>
     <h1
-      class="text-center text-primary border border-primary shadow rounded mt-2 p-1"
+      class="text-center text-primary border border-primary shadow rounded m-2 p-2 fixed-top"
     >
       Find all pairs or sums equal to 10
     </h1>
