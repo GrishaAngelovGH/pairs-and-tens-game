@@ -1,6 +1,7 @@
+import generateGrid from "./grid"
+
 const NumberGrid = () => {
-  const n = 10
-  const grid = new Array(n).fill().map(() => new Array(n).fill().map((v, i) => i))
+  const grid = generateGrid(10)
 
   return (
     <div className="row justify-content-center">
