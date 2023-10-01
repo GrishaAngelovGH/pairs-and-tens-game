@@ -1,3 +1,8 @@
+const sumPairs = [
+  [1, 2, 3, 4],
+  [9, 8, 7, 6]
+]
+
 const hasAvailablePlaceInGrid = grid => grid.flat().map(v => v.value).includes(null)
 
 const generateRandomCoordinates = n => {
@@ -25,8 +30,10 @@ const generatePair = (grid, n) => {
 }
 
 const generateSum = (grid, n) => {
-  placeNumber(grid, n, 2)
-  placeNumber(grid, n, 8)
+  const index = Math.floor(Math.random() * 4)
+
+  placeNumber(grid, n, sumPairs[0][index])
+  placeNumber(grid, n, sumPairs[1][index])
 }
 
 const generateGrid = n => {

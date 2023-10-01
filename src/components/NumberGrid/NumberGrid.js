@@ -76,7 +76,6 @@ const NumberGrid = () => {
   return (
     <div className="row justify-content-center">
       <div className="col-md-6 border border-3 border-primary rounded shadow">
-        {/* <button onClick={() => { setShowRestartButton(!showRestartButton) }}>click</button> */}
         {
           grid.map((row, i) => (
             <div key={i} className="row">
