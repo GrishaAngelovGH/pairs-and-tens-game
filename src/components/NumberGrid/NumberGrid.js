@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react"
 
 import NumberCell from "./NumberCell"
+import Confetti from "react-confetti"
 
 import generateGrid from "./grid"
 
@@ -12,6 +13,8 @@ const NumberGrid = () => {
 
   const [firstCoords, setFirstCoords] = useState([])
   const [secondCoords, setSecondCoords] = useState([])
+
+  const [isCompleted, setIsCompleted] = useState(false)
 
   const handleClick = (num, coordinates) => {
     if (firstNum === null) {
@@ -42,7 +45,11 @@ const NumberGrid = () => {
 
       if (isPair || isSum) {
         if (grid.flat().every(v => v.isClicked)) {
-          console.log("the game has been completed")
+          setIsCompleted(true)
+
+          setTimeout(() => {
+            setIsCompleted(false)
+          }, 5000)
         }
       } else {
         setTimeout(() => {
@@ -80,6 +87,15 @@ const NumberGrid = () => {
               }
             </div>
           ))
+        }
+
+        {
+          isCompleted && (
+            <Confetti
+              width={window.innerWidth}
+              height={window.innerHeight}
+            />
+          )
         }
       </div>
     </div>
