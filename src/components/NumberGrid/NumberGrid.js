@@ -15,6 +15,7 @@ const NumberGrid = () => {
   const [secondCoords, setSecondCoords] = useState([])
 
   const [isCompleted, setIsCompleted] = useState(false)
+  const [showRestartButton, setShowRestartButton] = useState(false)
 
   const handleClick = (num, coordinates) => {
     if (firstNum === null) {
@@ -34,9 +35,12 @@ const NumberGrid = () => {
     setGrid(newGrid)
   }
 
-  useEffect(() => {
+  const initializeGrid = () => {
     setGrid(generateGrid(10))
-  }, [])
+    setShowRestartButton(false)
+  }
+
+  useEffect(initializeGrid, [])
 
   useEffect(() => {
     if (firstNum !== null && secondNum !== null) {
@@ -46,6 +50,7 @@ const NumberGrid = () => {
       if (isPair || isSum) {
         if (grid.flat().every(v => v.isClicked)) {
           setIsCompleted(true)
+          setShowRestartButton(true)
 
           setTimeout(() => {
             setIsCompleted(false)
@@ -71,6 +76,7 @@ const NumberGrid = () => {
   return (
     <div className="row justify-content-center">
       <div className="col-md-6 border border-3 border-primary rounded shadow">
+        {/* <button onClick={() => { setShowRestartButton(!showRestartButton) }}>click</button> */}
         {
           grid.map((row, i) => (
             <div key={i} className="row">
@@ -95,6 +101,18 @@ const NumberGrid = () => {
               width={window.innerWidth}
               height={window.innerHeight}
             />
+          )
+        }
+
+        {
+          showRestartButton && (
+            <div className="row justify-content-center m-2">
+              <div className="col-md-6">
+                <button className="btn btn-primary w-100" onClick={initializeGrid}>
+                  Restart Game
+                </button>
+              </div>
+            </div>
           )
         }
       </div>
