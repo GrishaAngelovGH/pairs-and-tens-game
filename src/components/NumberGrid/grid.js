@@ -1,4 +1,4 @@
-const hasAvailablePlaceInGrid = grid => grid.flat().includes(undefined)
+const hasAvailablePlaceInGrid = grid => grid.flat().map(v => v.value).includes(null)
 
 const generateRandomCoordinates = n => {
   const i = Math.floor(Math.random() * n)
@@ -10,11 +10,11 @@ const generateRandomCoordinates = n => {
 const placeNumber = (grid, n, num) => {
   let [i, j] = generateRandomCoordinates(n)
 
-  while (grid[i] && grid[i][j] !== undefined) {
+  while (grid[i][j].value !== null) {
     [i, j] = generateRandomCoordinates(n)
   }
 
-  grid[i][j] = num
+  grid[i][j].value = num
 }
 
 const generatePair = (grid, n) => {
@@ -30,7 +30,9 @@ const generateSum = (grid, n) => {
 }
 
 const generateGrid = n => {
-  const grid = new Array(n).fill().map(() => new Array(n).fill())
+  const grid = new Array(n).fill().map(() => {
+    return new Array(n).fill().map(() => ({ value: null, isClicked: false }))
+  })
 
   while (hasAvailablePlaceInGrid(grid)) {
     const shouldGeneratePair = Math.random() >= 0.5

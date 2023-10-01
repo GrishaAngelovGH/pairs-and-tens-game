@@ -29,640 +29,66 @@ Object {
                   class="row"
                 >
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    0
+                    11
                   </div>
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    1
+                    12
                   </div>
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
+                    13
                   </div>
                 </div>
                 <div
                   class="row"
                 >
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    0
+                    21
                   </div>
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    1
+                    22
                   </div>
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
+                    23
                   </div>
                 </div>
                 <div
                   class="row"
                 >
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    0
+                    31
                   </div>
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    1
+                    32
                   </div>
                   <div
-                    class="col border border-primary text-center fw-bold bg-white"
+                    class="col border border-primary text-center fw-bold bg-white text-dark"
                     role="button"
                   >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
-                  </div>
-                </div>
-                <div
-                  class="row"
-                >
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    0
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    1
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
-                  </div>
-                </div>
-                <div
-                  class="row"
-                >
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    0
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    1
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
-                  </div>
-                </div>
-                <div
-                  class="row"
-                >
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    0
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    1
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
-                  </div>
-                </div>
-                <div
-                  class="row"
-                >
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    0
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    1
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
-                  </div>
-                </div>
-                <div
-                  class="row"
-                >
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    0
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    1
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
-                  </div>
-                </div>
-                <div
-                  class="row"
-                >
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    0
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    1
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
-                  </div>
-                </div>
-                <div
-                  class="row"
-                >
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    0
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    1
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    2
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    3
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    4
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    5
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    6
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    7
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    8
-                  </div>
-                  <div
-                    class="col border border-primary text-center fw-bold bg-white"
-                    role="button"
-                  >
-                    9
+                    33
                   </div>
                 </div>
               </div>
@@ -697,640 +123,66 @@ Object {
                 class="row"
               >
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  0
+                  11
                 </div>
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  1
+                  12
                 </div>
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
+                  13
                 </div>
               </div>
               <div
                 class="row"
               >
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  0
+                  21
                 </div>
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  1
+                  22
                 </div>
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
+                  23
                 </div>
               </div>
               <div
                 class="row"
               >
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  0
+                  31
                 </div>
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  1
+                  32
                 </div>
                 <div
-                  class="col border border-primary text-center fw-bold bg-white"
+                  class="col border border-primary text-center fw-bold bg-white text-dark"
                   role="button"
                 >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
-                </div>
-              </div>
-              <div
-                class="row"
-              >
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  0
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  1
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
-                </div>
-              </div>
-              <div
-                class="row"
-              >
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  0
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  1
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
-                </div>
-              </div>
-              <div
-                class="row"
-              >
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  0
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  1
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
-                </div>
-              </div>
-              <div
-                class="row"
-              >
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  0
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  1
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
-                </div>
-              </div>
-              <div
-                class="row"
-              >
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  0
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  1
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
-                </div>
-              </div>
-              <div
-                class="row"
-              >
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  0
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  1
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
-                </div>
-              </div>
-              <div
-                class="row"
-              >
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  0
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  1
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  2
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  3
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  4
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  5
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  6
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  7
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  8
-                </div>
-                <div
-                  class="col border border-primary text-center fw-bold bg-white"
-                  role="button"
-                >
-                  9
+                  33
                 </div>
               </div>
             </div>
